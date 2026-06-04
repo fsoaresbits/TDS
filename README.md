@@ -1,11 +1,13 @@
 # TDS
 Algumas das atividades concluídas enquanto cursando Téc. em Desenvolvimento de Sistemas
 
-[UC01](./UC01) - Planejar o desenvolvimento de software.
+## Unidades Currículares:
 
-[UC02](./UC02) - Desenvolver algoritmos.
+### [UC01](./UC01) - Planejar o desenvolvimento de software.
 
-[UC03](./UC03) - Auxiliar na modelagem a manipulação de banco de dados.
+### [UC02](./UC02) - Desenvolver algoritmos.
+
+### [UC03](./UC03) - Auxiliar na modelagem a manipulação de banco de dados.
 
 
 Continua...
