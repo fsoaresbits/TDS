@@ -1,5 +1,5 @@
 # TDS
-##Algumas das atividades concluídas enquanto cursando Téc. em Desenvolvimento de Sistemas
+## Algumas das atividades concluídas enquanto cursando Téc. em Desenvolvimento de Sistemas
 
 ### Unidades Currículares:
 
