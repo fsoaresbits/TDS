@@ -1,4 +1,6 @@
 # TDS
-Atividades concluídas enquanto cursando Téc. em Desenvolvimento de Sistemas
+Algumas das atividades concluídas enquanto cursando Téc. em Desenvolvimento de Sistemas
 
-[UC01](./UC01) a
+[UC01](./UC01) - Planejar o desenvolvimento de software.
+
+
