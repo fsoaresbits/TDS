@@ -1,2 +1,2 @@
 # TDS
-Téc. em Desenvolvimento de Sistemas
+Atividades concluídas enquanto cursando Téc. em Desenvolvimento de Sistemas
