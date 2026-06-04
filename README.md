@@ -4,12 +4,12 @@ Algumas das atividades concluídas enquanto cursando Téc. em Desenvolvimento de
 ## Unidades Currículares:
 
 ### [UC01](./UC01) - Planejar o desenvolvimento de software.
-Planejei, sob supervisão, os requisitos de projeto de software de acordo com as necessidades do cliente.
-Documentei os requisitos de software de acordo com as necessidades do cliente.
-Selecionei tecnologias de desenvolvimento de software de acordo com os requisitos do projeto.
-Selecionei metodologias de desenvolvimento de software conforme o projeto de sistema.
-Utilizei ferramentas de apoio a projetos de desenvolvimento de software.
-Planejei etapas de programação de código de software de acordo com metodologia, tecnologia e princípios de desenvolvimento de software.
+* Planejei, sob supervisão, os requisitos de projeto de software de acordo com as necessidades do cliente.
+* Documentei os requisitos de software de acordo com as necessidades do cliente.
+* Selecionei tecnologias de desenvolvimento de software de acordo com os requisitos do projeto.
+* Selecionei metodologias de desenvolvimento de software conforme o projeto de sistema.
+* Utilizei ferramentas de apoio a projetos de desenvolvimento de software.
+* Planejei etapas de programação de código de software de acordo com metodologia, tecnologia e princípios de desenvolvimento de software.
 
 ### [UC02](./UC02) - Desenvolver algoritmos.
 Estruturei algoritmos com base na lógica computacional e nos requisitos funcionais descritos no projeto.
