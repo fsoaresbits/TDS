@@ -1,4 +1,4 @@
-# TDS
+# Téc. em Desenvolvimento de Sistemas (TDS)
 ## Algumas das atividades concluídas enquanto cursando Téc. em Desenvolvimento de Sistemas
 
 ### Unidades Currículares:
