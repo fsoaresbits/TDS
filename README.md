@@ -28,4 +28,14 @@ Algumas das atividades concluídas enquanto cursando Téc. em Desenvolvimento de
 * Em andamento...
 
 ### [UC06](./UC06) - Desenvolver código orientado a objetos.
-* 
+* Programei classes de acordo com requisitos do sistema, paradigmas de orientação a objeto e linguagem de programação.
+* Programei métodos e sub-rotinas em classes de acordo com requisitos do sistema e linguagem de programação.
+* Programei estruturas condicionais de acordo com requisitos do sistema e linguagem de programação.
+* Programei herança em classes de acordo com requisitos do sistema, paradigmas de orientação a objeto e linguagem de programação.
+* Utilizei polimorfismo de acordo com requisitos do sistema, paradigmas de orientação a objeto e linguagem de programação.
+* Programei estruturas de repetição de acordo com requisitos do sistema e linguagem de programação.
+* Programei interfaces de acordo com requisitos do sistema, paradigmas de orientação a objeto e linguagem de programação.
+* Manipulei estruturas de dados de acordo com requisitos do sistema e linguagem de programação.
+* Utilizei linguagem de programação orientada a objetos de acordo com requisitos do sistema e linguagem de programação.
+
+
