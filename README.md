@@ -26,3 +26,6 @@ Algumas das atividades concluídas enquanto cursando Téc. em Desenvolvimento de
 * Programei comandos de criação de estruturas de banco de dados relacional, conforme comandos de definição de dados do SQL e requisitos do sistema.
 * Manipulei dados em tabelas de banco de dados relacional (insert, delete, update) conforme comandos SQL e requisitos do sistema.
 * Em andamento...
+
+### [UC06](./UC06) - Desenvolver código orientado a objetos.
+* 
